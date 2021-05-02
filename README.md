@@ -9,7 +9,7 @@
  ![](gfdfgfdsf.PNG)
  
 
- ### 3 Reminders to Give myself Every Day
+### **3 Reminders to Give myself Every Day**
  
  
 *YOU ONLY FAIL IF YOU QUIT.*
