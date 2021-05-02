@@ -7,8 +7,10 @@
 **growth mindset is afreedom , desire to learn**
 
  ![](gfdfgfdsf.PNG)
+ 
 
  ### 3 Reminders to Give myself Every Day
+ 
  
 *YOU ONLY FAIL IF YOU QUIT.*
 
