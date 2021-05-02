@@ -6,7 +6,7 @@
 
 **growth mindset is afreedom , desire to learn**
 
- ![ma](gfdfgfdsf.PNG)
+ ![](gfdfgfdsf.PNG)
 
  ### 3 Reminders to Give myself Every Day
  
@@ -15,3 +15,6 @@
 *THINGS GET BETTER WITH TIME.*
 
 *EVERYONE’S JOURNEY IS DIFFERENT*
+
+
+ ![](4.PNG)
