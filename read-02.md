@@ -1,4 +1,4 @@
-What is a branch?
+# What is a branch?
  
 *A branch is nothing but a pointer to the latest commit in the Git repository. So currently our master branch is a pointer to the second commit “demo.txt file is modified”.
 
