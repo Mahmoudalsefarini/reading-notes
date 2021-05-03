@@ -1,7 +1,7 @@
 # Mahmoud Adel AlSefarini, 26 years old, I graduated from the University of Jordan in 2019 in Civil Engineering, I have the passion and drive to become an expert in programming.
 
 
-| Page #       |     Content   |
+| Page Name    |     Content   |
 |----------    |:-------------:|
 | Lab-01       | [growth mindset](growthmindset.md)              | 
 | read-01      | [Learning Markdown](read-01.md)                 |
