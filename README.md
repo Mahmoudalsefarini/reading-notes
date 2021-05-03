@@ -3,9 +3,9 @@
 
 | Page #       |     Content   |
 |----------    |:-------------:|
-| read0        | [growth mindset](/growthmindset.md)        | 
-| read-01      | [Learning Markdown](read-01.md)            |
-| read-02      | [Revisions and the Cloud](read-02.md)      |
-| read-03      | [Structure web pages with HTML](read-03.md)|
-
+| Lab-01       | [growth mindset](growthmindset.md)              | 
+| read-01      | [Learning Markdown](read-01.md)                 |
+| read-02      | [Revisions and the Cloud](read-02.md)           |
+| read-03      | [Structure web pages with HTML](read-03.md)     |
+| Stretch2     | [What did this exercise teach you?](Stretch2.md)|
 
