@@ -7,5 +7,6 @@
 | read-01      | [Learning Markdown](read-01.md)                 |
 | read-02      | [Revisions and the Cloud](read-02.md)           |
 | read-03      | [Structure web pages with HTML](read-03.md)     |
-| Stretch2     | [What did this exercise teach you?](Stretch2.md)|
+| Stretch2     | [What did this exercise teach you ?](Stretch2.md)|
+| read-03b     | [What is CSS ?](read-03b.md)|
 
