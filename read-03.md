@@ -9,7 +9,11 @@
 * HTML should be coded to represent the data that will be populated and not based on its default presentation styling. Presentation (how it should look), is the sole responsibility of CSS.
 
 
+<<<<<<< HEAD
 ![](yjrhgfds.PNG)
+=======
+![](https://t3.ftcdn.net/jpg/02/51/75/32/240_F_251753295_PPRKG71srnq5mGLRfNpIulXSVzhRhsVw.jpg)
+>>>>>>> 89ecc0b7cf567c7f1feec9a52a9d6a33a16606f3
 
 
 ># Wireframing
