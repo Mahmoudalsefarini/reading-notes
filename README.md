@@ -10,4 +10,7 @@
 | Stretch2     | [What did this exercise teach you ?](Stretch2.md)|
 | read-03b     | [What is CSS ?](read-03b.md)|
 | read-04b     | [JavaScript's](read-04b.md)|
+<<<<<<< HEAD
 | read-05     | [Loops](read-05.md)|
+=======
+>>>>>>> c226d35cd0dba05a758a4c6bc52903aa5e6fe67f
