@@ -9,4 +9,5 @@
 | read-03      | [Structure web pages with HTML](read-03.md)     |
 | Stretch2     | [What did this exercise teach you ?](Stretch2.md)|
 | read-03b     | [What is CSS ?](read-03b.md)|
-
+| read-04b     | [JavaScript's](read-04b.md)|
+| read-05     | [Loops](read-05.md)|
