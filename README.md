@@ -11,5 +11,6 @@
 | read-03b     | [What is CSS ?](read-03b.md)|
 | read-04b     | [JavaScript's](read-04b.md)|
 | read-05     | [Loops](read-05.md)|
+| read-06     | [Programming with JavaScript](read-06.md)|
 
 

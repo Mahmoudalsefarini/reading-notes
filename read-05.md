@@ -1,4 +1,4 @@
-# while statement
+# While statement
 
 >A while statement executes its statements as long as a specified condition evaluates to true. A while statement looks as follows:
 
@@ -10,7 +10,7 @@ If the condition becomes false, statement within the loop stops executing and co
 
 >To execute multiple statements, use a block statement ({ ... }) to group those statements.
 
-# for statement
+# For statement
 
 >A for loop repeats until a specified condition evaluates to false. The JavaScript for loop is similar to the Java and C for loop.
 
