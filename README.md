@@ -12,4 +12,9 @@
 | read-04b     | [JavaScript's](read-04b.md)|
 | read-05     | [Loops](read-05.md)|
 | read-06     | [Programming with JavaScript](read-06.md)|
+<<<<<<< HEAD
 | read-09     | [cheat sheet](read-09.md)|
+=======
+
+
+>>>>>>> a1057cac50fe80349fc8da52fc343b3f519a4c06
