@@ -1,5 +1,8 @@
+
+
 # Mahmoud Adel AlSefarini, 26 years old, I graduated from the University of Jordan in 2019 in Civil Engineering, I have the passion and drive to become an expert in programming.
 
+# Code 102 Reading Notes 
 
 | Page Name    |     Content   |
 |----------    |:-------------:|
@@ -12,9 +15,25 @@
 | read-04b     | [JavaScript's](read-04b.md)|
 | read-05     | [Loops](read-05.md)|
 | read-06     | [Programming with JavaScript](read-06.md)|
-<<<<<<< HEAD
 | read-09     | [cheat sheet](read-09.md)|
-=======
 
+# Code 201 Reading Notes
 
->>>>>>> a1057cac50fe80349fc8da52fc343b3f519a4c06
+| Page Name    |     Content   |
+|----------    |:-------------:|
+| read-01      |                 |
+| read-02      |                 |
+| read-03      |                 |
+| read-04      |                 |
+| read-05      |                 |
+| read-06      |                 |
+| read-07      |                 |
+| read-08      |                 |
+| read-09      |                 |
+| read-10      |                 |
+| read-11      |                 |
+| read-12      |                 |
+| read-13      |                 |
+| read-14      |                 |
+| read-15      |                 |
+
