@@ -24,11 +24,8 @@
 | read-01      |                 |
 | read-02      |[Basics of HTML, CSS & JS](class-02.md)  |
 | read-03      |[HTML Lists, CSS Boxes, JS Control Flow](class-03.md)             |
-<<<<<<< HEAD
 | read-04      |[ HTML Links, JS Functions, and Intro to CSS Layout](class-04.md) |
-=======
 | read-04      |                 |
->>>>>>> d6eeb12c74cab7d4c4768b91b2092ad9943bdded
 | read-05      |                 |
 | read-06      |[JS Object Literals; The DOM](class-06.md)|
 | read-07      |                 |
