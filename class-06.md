@@ -3,7 +3,7 @@
 
 
 
-* You will also often see an <img>
+* You will also often see an img>
 element use two other attributes
 that specify its size:
 
@@ -11,17 +11,9 @@ that specify its size:
 - height
 This specifies the height of the
 image in pixels.
-
-
 * width
 This specifies the width of the
 image in pixels.
-
-
-
-
-
-
 
 # Where to Place Images in Your Code
 
@@ -54,7 +46,7 @@ the browser window. These are
 known as block level elements.
 
 * 'Examples of block elements are
-<h1>, <p>, <ul>, and <li>.'
+h1>, p>, ul>, and li>.'
 
 # 'Inline Elements'
 
@@ -65,4 +57,4 @@ elements. These are known as
 inline elements.'
 
 * 'Examples of inline elements are
-<a>, <b>, <em>, and <img>.'
+a>, b>, em>, and img>.'
