@@ -21,7 +21,7 @@
 
 | Page Name    |     Content   |
 |----------    |:-------------:|
-| read-01      |                 |
+| read-01      |[Introductory HTML and JavaScript](class-01.md)                 |
 | read-02      |[Basics of HTML, CSS & JS](class-02.md)|
 | read-03      |[HTML Lists, CSS Boxes, JS Control Flow](class-03.md)|
 | read-04      |[HTML Links, JS Functions, and Intro to CSS Layout](class-04.md) |
