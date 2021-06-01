@@ -2,8 +2,8 @@
 
 # Adding Images
 
-* '<img> To add an image into the page
-you need to use an <img>
+* 'img> To add an image into the page
+you need to use an img>
 element. This is an empty
 element (which means there is
 no closing tag). It must carry the
@@ -16,14 +16,14 @@ pointing to an image on your
 own site. (Here you can see that
 the images are in a child folder
 called images — relative URLs
-were covered on pages 83-84).'
+
 
 * alt This provides a text description
 of the image which describes the
 image if you cannot see it.
 title
 You can also use the title
-attribute with the <img> element
+attribute with the img> element
 to provide additional information
 about the image. Most browsers
 will display the content of this
@@ -53,4 +53,4 @@ their windows, so if you want
 to be sure that the background
 is white you can use the
 background-color property on
-the <body> element.
+the body> element.
