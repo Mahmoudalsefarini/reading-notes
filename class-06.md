@@ -28,42 +28,41 @@ image in pixels.
 
 
 
-1: before a paragraph
+1: 'before a paragraph
 The paragraph starts on a new
-line after the image.
+line after the image.'
 
 
-2: inside the start of a
+2: 'inside the start of a
 paragraph
 The first row of text aligns with
-the bottom of the image.
+the bottom of the image.'
 
 
-3: in the middle of a
+3: 'in the middle of a
 paragraph
 The image is placed between the
 words of the paragraph that it
-appears in.
+appears in.'
 
 
-# Block Elements
+# 'Block Elements'
 
 * Some elements will always
 appear to start on a new line in
 the browser window. These are
 known as block level elements.
 
-* Examples of block elements are
-<h1>, <p>, <ul>, and <li>.
+* 'Examples of block elements are
+<h1>, <p>, <ul>, and <li>.'
 
+# 'Inline Elements'
 
-# Inline Elements
-
-* Some elements will always
+* 'Some elements will always
 appear to continue on the
 same line as their neighbouring
 elements. These are known as
-inline elements.
+inline elements.'
 
-* Examples of inline elements are
-<a>, <b>, <em>, and <img>.
+* 'Examples of inline elements are
+<a>, <b>, <em>, and <img>.'
