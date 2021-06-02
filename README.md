@@ -29,7 +29,7 @@
 | read-06      |[JS Object Literals; The DOM](class-06.md)|
 | read-07      |[HTML Tables; JS Constructor Functions](class-07.md)  |
 | read-08      |[CSS Layout](class-08.md)                |
-| read-09      |                 |
+| read-09      |[Forms and JS Events](class-09.md)                 |
 | read-10      |                 |
 | read-11      |                 |
 | read-12      |                 |
