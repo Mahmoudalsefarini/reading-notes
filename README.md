@@ -21,16 +21,16 @@
 
 | Page Name    |     Content   |
 |----------    |:-------------:|
-| read-01      |[Introductory HTML and JavaScript](class-01.md)                 |
+| read-01      |[Introductory HTML and JavaScript](class-01.md)    |
 | read-02      |[Basics of HTML, CSS & JS](class-02.md)|
 | read-03      |[HTML Lists, CSS Boxes, JS Control Flow](class-03.md)|
 | read-04      |[HTML Links, JS Functions, and Intro to CSS Layout](class-04.md) |
 | read-05      |[Images, Color, Text](class-05.md)        |
 | read-06      |[JS Object Literals; The DOM](class-06.md)|
 | read-07      |[HTML Tables; JS Constructor Functions](class-07.md)  |
-| read-08      |[CSS Layout](class-08.md)                |
-| read-09      |[Forms and JS Events](class-09.md)                 |
-| read-10      |                 |
+| read-08      |[CSS Layout](class-08.md)              |
+| read-09      |[Forms and JS Events](class-09.md)     |
+| read-10      |[Debugging](class-10.md)                 |
 | read-11      |                 |
 | read-12      |                 |
 | read-13      |                 |
