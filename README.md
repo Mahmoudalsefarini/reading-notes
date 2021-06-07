@@ -32,7 +32,7 @@
 | read-09      |[Forms and JS Events](class-09.md)     |
 | read-10      |[Debugging](class-10.md)                 |
 | read-11      |[Audio, Video, Images](class-11.md) |
-| read-12      |                 |
+| read-12      |[Chart.js, Canvas](class-12.md)    |
 | read-13      |                 |
 | read-14      |                 |
 | read-15      |                 |
