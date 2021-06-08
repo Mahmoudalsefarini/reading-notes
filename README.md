@@ -33,7 +33,7 @@
 | read-10      |[Debugging](class-10.md)                 |
 | read-11      |[Audio, Video, Images](class-11.md) |
 | read-12      |[Chart.js, Canvas](class-12.md)    |
-| read-13      |                 |
+| read-13      |[Local Storage](class-13.md) |
 | read-14      |                 |
 | read-15      |                 |
 
